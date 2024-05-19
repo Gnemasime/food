@@ -14,4 +14,3 @@ The default admin login info is admin / admin
 
 
 
-Last updated - 30th July 2018
